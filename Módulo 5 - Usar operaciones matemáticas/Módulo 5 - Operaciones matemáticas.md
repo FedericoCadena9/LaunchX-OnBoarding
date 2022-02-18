@@ -158,7 +158,7 @@ b = 16 - 39
 Observa que la diferencia entre las dos ecuaciones es que los números se invierten. Las respuestas son ``23`` y ``-23``, respectivamente. Cuando estás determinando la distancia entre dos planetas, el orden en el que ingresas los números no importa, porque la respuesta absoluta es la misma.
 
 Convertimos el valor negativo en su valor absoluto utilizando ``abs``. Si realiza la misma operación utilizando ``abs`` (e imprimes las respuestas), notarás que se muestra ``23`` para ambas ecuaciones.
-
+    
 ```
 print(abs(39 - 16))
 print(abs(16 - 39))
